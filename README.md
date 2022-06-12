@@ -6,7 +6,7 @@ This repo includes the Java problemSets and examples completed under Udemy cours
 The Udemy course is [linked here](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
 ## Table of Contents
-- [Java Problems on Numbers](https://github.com/cbe99/CS-Java/tree/main/Java/Numbers)
+#### - [Java Problems on Numbers](https://github.com/cbe99/CS-Java/tree/main/Java/Numbers)
     1. [Sum of digits](https://github.com/cbe99/CS-Java/blob/main/Java/Numbers/sumOfDigits.java)
     2. [Sum of odd numbers](https://github.com/cbe99/CS-Java/blob/main/Java/Numbers/sumOdd.java)
     3. [Sum of digits](https://github.com/cbe99/CS-Java/blob/main/Java/Numbers/sumOfDigits.java)
