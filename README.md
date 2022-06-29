@@ -47,6 +47,7 @@ The Udemy course is [linked here](https://www.udemy.com/course/java-the-complete
 9. [Encapsulation: Printer](https://github.com/cbe99/CS-Java/tree/main/Java/PrinterChallenge)
 10. [Polymorphism: Car Analogy](https://github.com/cbe99/CS-Java/tree/main/Java/CarAnalogy)
 11. [Bill's Burgers](https://github.com/cbe99/CS-Java/tree/main/Java/BillsBurgers)
+12. [Banking System](https://github.com/cbe99/CS-Java/tree/main/Java/BankingChallenge)
 
 
 ### **- Arrays**
